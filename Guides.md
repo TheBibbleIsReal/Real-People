@@ -39,3 +39,4 @@ if you already use one or the other don't switch. But, if you don't use either I
 - Press (Windows Key) + G and in the prompt type "%appdata%" and press enter
 - Navigate to ".minecraft", then "mods"
 - Then drag it into the mods folder
+- For both clients if the mods folder is not already there you can add it by making a new folder and naming it mods
