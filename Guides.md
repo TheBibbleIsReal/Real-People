@@ -20,8 +20,6 @@ if you already use one or the other don't switch. But, if you don't use either I
 - On the page linked above go to files at the top (it should be right next to the picture)
 - Download for the latest version (it should just be the highest)
 
-- Next, you'll want to run minecraft with the fabric installation (it should automatically be there when you open the minecraft launcher)
-- As soon as you get to the title screen close the game 
 - Press (Windows Key) + G and in the prompt type "%appdata%" and press enter
 - Navigate to ".minecraft", then "mods"
 - Drop the Fabric API file from earlier into that folder (mods folder)
@@ -29,7 +27,7 @@ if you already use one or the other don't switch. But, if you don't use either I
 ### Forge
 
 - Go to [MinecraftForge.net](https://files.minecraftforge.net/net/minecraftforge/forge/)
-- Download the installer on the middle window 
+- Download the installer 
 - Run the installer
 - Choose the setting "install client" then press "ok"
 - Press ok on the finished tab when it pops up
