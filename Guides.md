@@ -16,9 +16,8 @@ if you already use one or the other don't switch. But, if you don't use either I
 - Click on the "download" tab at the top
 - Download the installer
 - Run the jar file, it should automatically go to the latest so all you'll have to do is press "install"
-
-- Also, on that same page there are the words "Fabric API" that's highlighted. Click on that
-- In the page that just opened go to files at the top (it should be right next to the picture)
+- You'll also want to install the [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
+- On the page linked above go to files at the top (it should be right next to the picture)
 - Download for the latest version (it should just be the highest)
 
 - Next, you'll want to run minecraft with the fabric installation (it should automatically be there when you open the minecraft launcher)
