@@ -7,7 +7,7 @@ All the commands are listed [here](https://www.spigotmc.org/resources/tabtps-1-8
 ## How to use Simple Voice Chat
 
 There's two ways you can do this, with fabric or with forge,
-if you already use forge don't switch. But, if you don't use either I recommend fabric.
+if you already use one or the other don't switch. But, if you don't use either I recommend fabric.
 (How to install the mod will be at the bottom since it's the same process for both)
 
 ### Fabric
