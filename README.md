@@ -31,3 +31,9 @@ and this changelog follows [ISO 8601](https://www.iso.org/iso-8601-date-and-time
 ### Removed
 
 - Removed Herobrine
+
+## [1.0.0] - 2022-01-21
+
+### Changed
+
+- Changed server host
