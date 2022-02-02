@@ -22,7 +22,7 @@ if you already use one or the other don't switch. But, if you don't use either I
 
 - Next, you'll want to run minecraft with the fabric installation (it should automatically be there when you open the minecraft launcher)
 - As soon as you get to the title screen close the game 
-- Press (Windows Key) + G and in the prompt type "%appdata%"
+- Press (Windows Key) + G and in the prompt type "%appdata%" and press enter
 - Navigate to ".minecraft", then "mods"
 - Drop the Fabric API file from earlier into that folder (mods folder)
 
@@ -38,4 +38,8 @@ if you already use one or the other don't switch. But, if you don't use either I
 
 - Download the voice chat mod from [CurseForge](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/files)
 - Select the installation for whatever launcher and version you're using
-- Then drag it into the mods folder
+- Then drag it into the mods folder 
+(If you don't know how to get there)
+- Press (Windows Key) + G and in the prompt type "%appdata%" and press enter
+- Navigate to ".minecraft", then "mods"
+
