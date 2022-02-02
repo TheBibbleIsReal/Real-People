@@ -38,8 +38,6 @@ if you already use one or the other don't switch. But, if you don't use either I
 
 - Download the voice chat mod from [CurseForge](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/files)
 - Select the installation for whatever launcher and version you're using
-- Then drag it into the mods folder 
-(If you don't know how to get there)
 - Press (Windows Key) + G and in the prompt type "%appdata%" and press enter
 - Navigate to ".minecraft", then "mods"
-
+- Then drag it into the mods folder
