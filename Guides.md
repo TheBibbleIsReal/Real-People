@@ -20,7 +20,7 @@ if you already use one or the other don't switch. But, if you don't use either I
 - On the page linked above go to files at the top (it should be right next to the picture)
 - Download for the latest version (it should just be the highest)
 
-- Press (Windows Key) + G and in the prompt type "%appdata%" and press enter
+- Press (Windows Key) + R and in the prompt type "%appdata%" and press enter
 - Navigate to ".minecraft", then "mods"
 - Drop the Fabric API file from earlier into that folder (mods folder)
 
@@ -36,7 +36,7 @@ if you already use one or the other don't switch. But, if you don't use either I
 
 - Download the voice chat mod from [CurseForge](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/files)
 - Select the installation for whatever launcher and version you're using
-- Press (Windows Key) + G and in the prompt type "%appdata%" and press enter
+- Press (Windows Key) + R and in the prompt type "%appdata%" and press enter
 - Navigate to ".minecraft", then "mods"
 - Then drag it into the mods folder
 - For both clients if the mods folder is not already there you can add it by making a new folder and naming it mods
