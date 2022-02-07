@@ -20,6 +20,8 @@ if you already use one or the other don't switch. But, if you don't use either I
 - On the page linked above go to files at the top (it should be right next to the picture)
 - Download for the latest version (it should just be the highest)
 
+- Next you'll want to run fabric for the first time just to make sure everything works and to make the files needed
+- After you get to the title screen close the game
 - Press (Windows Key) + R and in the prompt type "%appdata%" and press enter
 - Navigate to ".minecraft", then "mods"
 - Drop the Fabric API file from earlier into that folder (mods folder)
