@@ -15,6 +15,20 @@ and this changelog follows [ISO 8601](https://www.iso.org/iso-8601-date-and-time
 
 - Fixed server crash bug
 
+## [2.1.0] - 2022-05-21
+
+### Added 
+
+- 1.18.2 compatibilty
+
+### Changed 
+
+- Everything
+
+### Removed
+
+- 1.18.1 and below compatibility
+
 ## [1.1.0] - 2022-01-31
 
 ### Added 
